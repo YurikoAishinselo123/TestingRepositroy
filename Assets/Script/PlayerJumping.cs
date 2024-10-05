@@ -9,6 +9,7 @@ public class PlayerJumping : MonoBehaviour
     {
 
         int a = 10;
+        int b = 10;
     }
 
     // Update is called once per frame
